@@ -1,12 +1,12 @@
-import './styles.scss'
+import './scss/styles.scss';
 
-import './bootstrap/bootstrap.js'
+import './bootstrap/bootstrap.js';
 
-import axios from 'axios'
+import axios from 'axios';
 import {
     api,
     error
-} from './constants'
+} from './constants';
 
 // JS
 
